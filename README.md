@@ -1,16 +1,30 @@
-# e_commerce
 
-A new Flutter project.
+# E-Commerce Application Design Using Flutter
 
-## Getting Started
+Here is my brand new flutter Project, which is E-Commerce Application.
+Hope you guys will like this.
+Thanks for reading❤️ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Roadmap
+- Dribble
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+
+
+## Screenshots
+### Login Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-UI-1/blob/master/assets/ScreenShots/tia1642985103064814289.png?raw=true)
+
+### Home Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-UI-1/blob/master/assets/ScreenShots/tia5025187580502082547.png?raw=true)
+
+### Categories Page
+
+![App Screenshot](https://github.com/rafipsv/E-Commerce-UI-1/blob/master/assets/ScreenShots/tia4234107397884408244.png?raw=true)
+
+
